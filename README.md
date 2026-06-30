@@ -19,7 +19,16 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Real-World+Apps+%F0%9F%A4%96;Exploring+Generative+AI+%26+Deep+Learning+%F0%9F%A7%A0;Java+%E2%98%95+%7C+Python+%F0%9F%90%8D+%7C+AI%2FML+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG"/>
+<table>
+<tr><td align="center">
+
+### 🤖 Building Intelligent Real-World Apps
+### 🧠 Exploring Generative AI & Deep Learning
+### ☕ Java &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 🚀 AI/ML
+### 💼 Open to Internship Opportunities
+
+</td></tr>
+</table>
 
 <br/><br/>
 
@@ -196,14 +205,17 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 ## 📊 GitHub Statistics
 
 <!--
-  NOTE: The cards below pull from github-readme-stats.vercel.app, a free
-  shared community server. It occasionally goes down or rate-limits under
-  load — if a card shows a broken icon, it's a temporary server issue on
-  their end, not a problem with this file. Just refresh the page in a
-  minute, or visit https://github-readme-stats.vercel.app to check status.
-  If it stays broken for you long-term, the easiest fix is deploying your
-  own free copy on Vercel (one-click, instructions on that repo) and
-  swapping the domain in the URLs below to your own deployment.
+  NOTE ON RELIABILITY: most of this file is now static (badges, text,
+  skillicons.dev) and cannot break. Three widgets below still pull from
+  the free shared community server github-readme-stats.vercel.app:
+  top languages, streak stats, and the activity graph. That server
+  occasionally rate-limits under heavy public load — if one of these
+  shows a broken icon, it's a temporary issue on their end. Refresh in
+  a minute, or check status at https://github-readme-stats.vercel.app.
+  If it keeps happening, the permanent fix is deploying your own free
+  copy on Vercel (one-click from that repo) and swapping the domain
+  in the three URLs below to your own deployment — removes you from
+  the shared rate-limit pool entirely.
 -->
 
 <div align="center">
@@ -218,13 +230,14 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 
 </div>
 
-<details>
-<summary align="center">🏆 <b>Click to expand GitHub Trophies</b></summary>
-<br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Meghanakolipaka2&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+<img src="https://img.shields.io/badge/🏆_Repos-5-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_Focus-AI%2FML-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☕_Languages-Java%20%7C%20Python-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢_Status-Open%20to%20Internships-00C2FF?style=for-the-badge"/>
+
 </div>
-</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -287,9 +300,10 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 
 <div align="center">
 
-### 💬 Developer Quote of the Day
+### 💬 Quote I Build By
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+> *"The best way to predict the future is to invent it."*
+> — Alan Kay
 
 </div>
 

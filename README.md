@@ -1,43 +1,42 @@
 <!--
   ===========================================================
-  GitHub Profile README — Meghana Kolipaka  (v2 — Enhanced)
+  GitHub Profile README — Meghana Kolipaka  (v3 — Fixed & Polished)
   ===========================================================
   HOW TO USE:
   1. Save as README.md in a repo named EXACTLY your username
      → Meghanakolipaka2/Meghanakolipaka2 (must be PUBLIC).
-  2. The wave header + snake animation need ONE extra step:
-     → For the snake game (contribution graph animation), go to
-       your repo → Settings → Actions → set up the workflow from
-       https://github.com/Platane/snk (linked again at the bottom
-       of this file). Takes 2 minutes, fully automatic after that.
+  2. This version uses only reliable, no-signup-required image
+     services (capsule-render, shields.io, github-readme-stats,
+     skillicons.dev) — nothing here requires a WakaTime account
+     or anything else you don't have, so nothing should break.
   3. Replace "Coming Soon" demo links once projects go live.
-  4. Everything else (stats, streak, trophies) is automatic —
-     just keep the username "Meghanakolipaka2" consistent.
   ===========================================================
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=220&section=header&text=Meghana%20Kolipaka&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20Java%20%26%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Real-World+Apps+%F0%9F%A4%96;Exploring+Generative+AI+%26+Deep+Learning+%F0%9F%A7%A0;Java+%E2%98%95+%7C+Python+%F0%9F%90%8D+%7C+AI%2FML+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=200&section=header&text=Meghana%20Kolipaka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Java%20%26%20Python%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Meghanakolipaka2&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
-<a href="https://linkedin.com/in/meghana-kolipaka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:meghanakolipaka4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://raw.githubusercontent.com/Meghanakolipaka2/Meghanakolipaka2/main/Meghana_Kolipaka_Resume.pdf"><img src="https://img.shields.io/badge/Resume-00C2FF?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Real-World+Apps+%F0%9F%A4%96;Exploring+Generative+AI+%26+Deep+Learning+%F0%9F%A7%A0;Java+%E2%98%95+%7C+Python+%F0%9F%90%8D+%7C+AI%2FML+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-8A2BE2?style=for-the-badge"/> <img src="https://komarev.com/ghpvc/?username=Meghanakolipaka2&color=8A2BE2&style=for-the-badge&label=" alt="views" height="28"/>
+<a href="https://linkedin.com/in/meghana-kolipaka"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:meghanakolipaka4@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://raw.githubusercontent.com/Meghanakolipaka2/Meghanakolipaka2/main/Meghana_Kolipaka_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-00C2FF?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br/>
 
-### 🧠 About Me
+## 💭 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 ```yaml
 name: Meghana Kolipaka
@@ -55,9 +54,9 @@ currently_exploring: [Generative AI, Deep Learning, DSA in Java]
 - ⚡ **Fun fact:** I learn best by building, breaking, and rebuilding things until they work!
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="38%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Meghanakolipaka2&theme=radical&hide_border=true&layout=compact&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Meghanakolipaka2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&hide_title=true&hide_rank=false" width="100%"/>
 
 </td>
 </tr>
@@ -73,37 +72,41 @@ currently_exploring: [Generative AI, Deep Learning, DSA in Java]
 <img src="https://img.shields.io/badge/Open%20Source-FFA500?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark"/>
 
 <br/><br/>
 
 **Frameworks & Backend**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs&theme=dark"/>
 
 <br/><br/>
 
 **AI / ML / Data Science**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pandas,numpy&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
 
 <br/><br/>
 
 **Tools & Platforms**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,googlecloud&theme=dark"/>
 
 </div>
@@ -115,31 +118,32 @@ currently_exploring: [Generative AI, Deep Learning, DSA in Java]
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Linear%20Regression-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Logistic%20Regression-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Decision%20Trees-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Random%20Forest-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/SVM-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/KNN-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Naive%20Bayes-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/K--Means%20Clustering-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/CNN-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gradient%20Descent-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linear%20Regression-4169E1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Logistic%20Regression-4169E1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Decision%20Trees-2E8B57?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Random%20Forest-2E8B57?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVM-FF8C00?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/KNN-FF8C00?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Naive%20Bayes-8A2BE2?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/K--Means%20Clustering-8A2BE2?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-DC143C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradient%20Descent-DC143C?style=flat-square&logoColor=white"/>
 </p>
 
 </details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### 🎓 Smart Campus System
+### 🎓 Smart Campus System
 Full-stack event management platform with role-based access, smart recommendations & conflict detection.
 
+**Tech Stack:**
 `Python` `Flask` `MySQL` `JS`
 
 [🔗 View Repo](https://github.com/Meghanakolipaka2)
@@ -147,9 +151,10 @@ Full-stack event management platform with role-based access, smart recommendatio
 </td>
 <td width="33%" valign="top">
 
-#### 😊 EmotiLearn
+### 😊 EmotiLearn
 AI learning assistant detecting learner emotions via computer vision for adaptive recommendations.
 
+**Tech Stack:**
 `Python` `OpenCV` `DeepFace` `FastAPI`
 
 [🔗 View Repo](https://github.com/Meghanakolipaka2)
@@ -157,9 +162,10 @@ AI learning assistant detecting learner emotions via computer vision for adaptiv
 </td>
 <td width="33%" valign="top">
 
-#### 🖼️ Image Classifier
+### 🖼️ Image Classifier
 CNN-based image classification with full pipeline — preprocessing, training, evaluation & tuning.
 
+**Tech Stack:**
 `Python` `TensorFlow` `CNN`
 
 [🔗 View Repo](https://github.com/Meghanakolipaka2)
@@ -168,18 +174,19 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 </tr>
 </table>
 
-> 💡 *Pinning these 3 repos on your GitHub profile (via the "Customize your pins" option) will make them show up as cards right under your bio too — highly recommended for an extra visual layer!*
+> 💡 *Tip: Pin these 3 repos on your profile (top-right "Customize your pins") — GitHub will render them as native cards right under your bio for an extra layer of polish.*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Meghanakolipaka2&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghanakolipaka2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghanakolipaka2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meghanakolipaka2&theme=radical&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meghanakolipaka2&theme=radical&hide_border=true&background=0D1117"/>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghanakolipaka2&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C2FF&line=8A2BE2&point=FFFFFF" width="95%"/>
 
@@ -195,9 +202,9 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🏆 Achievements & Certifications
+## 🏆 Achievements & Certifications
 
-<details>
+<details open>
 <summary>🌐 <b>Cisco Networking Academy</b></summary>
 <br/>
 
@@ -208,7 +215,7 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 
 </details>
 
-<details>
+<details open>
 <summary>🤖 <b>Artificial Intelligence & Machine Learning</b></summary>
 <br/>
 
@@ -220,7 +227,7 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 
 </details>
 
-<details>
+<details open>
 <summary>💻 <b>Programming & Software Development</b></summary>
 <br/>
 
@@ -232,7 +239,7 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 <p align="center">
 <img src="https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
@@ -240,7 +247,7 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 <img src="https://img.shields.io/badge/DSA%20using%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🤝 Open to Collaborate On
+## 🤝 Open to Collaborate On
 
 <p align="center">
 <img src="https://img.shields.io/badge/Open%20Source-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
@@ -252,28 +259,29 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!--
-  🐍 OPTIONAL: Animated contribution snake.
-  Set up once via https://github.com/Platane/snk (free GitHub Action),
-  then it auto-generates this gif from your real contribution graph.
-  Uncomment the line below after setup:
+<div align="center">
 
-  <img src="https://raw.githubusercontent.com/Meghanakolipaka2/Meghanakolipaka2/output/github-contribution-grid-snake.svg" width="100%"/>
--->
+### 💬 Developer Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
 
-### 📬 Let's Connect
+## 📬 Let's Connect & Collaborate
 
-<a href="https://linkedin.com/in/meghana-kolipaka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:meghanakolipaka4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://raw.githubusercontent.com/Meghanakolipaka2/Meghanakolipaka2/main/Meghana_Kolipaka_Resume.pdf"><img src="https://img.shields.io/badge/Resume-00C2FF?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://linkedin.com/in/meghana-kolipaka"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:meghanakolipaka4@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://raw.githubusercontent.com/Meghanakolipaka2/Meghanakolipaka2/main/Meghana_Kolipaka_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-00C2FF?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 
 <br/><br/>
 
 <i>"Turning ideas into intelligent, real-world applications — one project at a time." ✨</i>
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=120&section=footer" width="100%"/>
 

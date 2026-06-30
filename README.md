@@ -23,7 +23,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-8A2BE2?style=for-the-badge"/> <img src="https://komarev.com/ghpvc/?username=Meghanakolipaka2&color=8A2BE2&style=for-the-badge&label=" alt="views" height="28"/>
 <a href="https://linkedin.com/in/meghana-kolipaka"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:meghanakolipaka4@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://raw.githubusercontent.com/Meghanakolipaka2/Meghanakolipaka2/main/Meghana_Kolipaka_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-00C2FF?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
@@ -56,7 +55,23 @@ currently_exploring: [Generative AI, Deep Learning, DSA in Java]
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Meghanakolipaka2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&hide_title=true&hide_rank=false" width="100%"/>
+<table>
+<tr><td align="center">
+
+**🎯 Snapshot**
+
+<br/>
+
+🟢 Open to Internships
+<br/><br/>
+🎓 Final Year • 2027
+<br/><br/>
+📍 Hyderabad, India
+<br/><br/>
+🧠 AI/ML • Java • Python
+
+</td></tr>
+</table>
 
 </td>
 </tr>
@@ -180,15 +195,26 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 
 ## 📊 GitHub Statistics
 
+<!--
+  NOTE: The cards below pull from github-readme-stats.vercel.app, a free
+  shared community server. It occasionally goes down or rate-limits under
+  load — if a card shows a broken icon, it's a temporary server issue on
+  their end, not a problem with this file. Just refresh the page in a
+  minute, or visit https://github-readme-stats.vercel.app to check status.
+  If it stays broken for you long-term, the easiest fix is deploying your
+  own free copy on Vercel (one-click, instructions on that repo) and
+  swapping the domain in the URLs below to your own deployment.
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghanakolipaka2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghanakolipaka2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meghanakolipaka2&theme=radical&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meghanakolipaka2&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghanakolipaka2&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C2FF&line=8A2BE2&point=FFFFFF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghanakolipaka2&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C2FF&line=8A2BE2&point=FFFFFF" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -286,4 +312,5 @@ CNN-based image classification with full pipeline — preprocessing, training, e
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=120&section=footer" width="100%"/>
 
 </div>
+
 
